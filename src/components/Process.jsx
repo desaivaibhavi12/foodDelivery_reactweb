@@ -1,7 +1,7 @@
 import React from "react";
-import img1 from "../assets/img/Process1.png"
-import img2 from "../assets/img/Process2.png"
-import img3 from "../assets/img/Process3.png"
+import img1 from "../assets/img/process1.png"
+import img2 from "../assets/img/process2.png"
+import img3 from "../assets/img/process3.png"
 import ProcessCart from "../layouts/ProcessCart";
 const processSteps = [
   {
